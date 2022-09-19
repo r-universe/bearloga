@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MLPUGS"]
+	path = MLPUGS
+	url = https://github.com/bearloga/mlpugs
+	shallow = true
+	registered = true

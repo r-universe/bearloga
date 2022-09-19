@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MLPUGS",
+    "oncran": true
+  }
+]
